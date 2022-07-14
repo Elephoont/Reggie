@@ -42,8 +42,8 @@ The bot may store the following information automatically when being invited to 
 No other information outside of the above mentioned one will be stored.
 
 <h2>Updating Data</h2>
-The data may be updated when using specific commands, such as <code>chance</code>, <code>exclude</code>, <code>ignore</code>, or <code>prefix</code>.
-Updating data will require the input of an end user, and data that can be seen as sensitive, such as content of a message, may need to be stored when using certain commands.
+The data may be updated when using specific commands, such as <code>chance</code>, <code>exclude</code>, <code>ignore</code>, or <code>prefix</code>. If a user is opted in to Reggie, messages that user sends will be automatically collected for imitation commands.
+Updating any other data will require the input of an end user, and data that can be seen as sensitive, such as content of a message, may need to be stored when using certain commands.
 
 No other actions may update the stored information at any given time.
 
